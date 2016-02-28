@@ -1,2 +1,3 @@
 # MyTestCases
-exampes of test cases
+exampes of test cases and github useing trainig
+
